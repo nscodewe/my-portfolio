@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌌 Neha Sharma | Futuristic Portfolio v1.0
 
-## Getting Started
+A high-performance, motion-driven portfolio website designed with a futuristic "Glassmorphism" aesthetic. Built specifically to showcase a journey in Computer Science Engineering, problem-solving, and technical skill acquisition.
 
-First, run the development server:
+![Portfolio Preview](https://via.placeholder.com/1280x720/0f172a/64748b?text=Neha+Sharma+Portfolio+Preview) 
+*Note: Add a screenshot of your finished site here!*
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 The Vision
+The goal of this project was to transform a traditional resume into an immersive digital experience. It uses scroll-based storytelling, cinematic transitions, and a premium "dark-mode default" design language to stand out in the tech industry.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tech Stack
+- **Framework:** [Next.js 14 (App Router)](https://nextjs.org/)
+- **Language:** [TypeScript](https://www.typescriptlang.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Animations:** [Framer Motion](https://www.framer.com/motion/)
+- **Icons:** [Lucide React](https://lucide.dev/)
+- **Deployment:** [Vercel](https://vercel.com/)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✨ Key Features
+- **Cinematic Splash Screen:** Custom monogram loader with smooth entry transitions.
+- **Futuristic Background:** Interactive Canvas-based particle system with drifting mesh lines.
+- **Glassmorphism UI:** Premium frosted-glass cards with subtle glow effects and border gradients.
+- **Scroll-Spy Navigation:** Sticky progress indicators and anchor-link scrolling.
+- **Responsive Engineering:** Fully optimized for Mobile (360px) up to Ultra-wide Desktops.
+- **Performance Optimized:** Targetting 60fps animations with `requestAnimationFrame`.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📂 Project Structure
+```text
+├── app/                # Next.js App Router (Pages & Layout)
+├── components/         # Reusable UI Components (Hero, Skills, etc.)
+├── lib/                # Resume Data (JSON) and Utility Functions
+├── public/             # Static Assets (Images/PDFs)
+└── tailwind.config.ts  # Theme & Design Tokens
