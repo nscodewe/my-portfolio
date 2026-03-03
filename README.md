@@ -2,8 +2,7 @@
 
 A high-performance, motion-driven portfolio website designed with a futuristic "Glassmorphism" aesthetic. Built specifically to showcase a journey in Computer Science Engineering, problem-solving, and technical skill acquisition.
 
-![Portfolio Preview](https://via.placeholder.com/1280x720/0f172a/64748b?text=Neha+Sharma+Portfolio+Preview) 
-*Note: Add a screenshot of your finished site here!*
+![Portfolio Preview]
 
 ## 🚀 The Vision
 The goal of this project was to transform a traditional resume into an immersive digital experience. It uses scroll-based storytelling, cinematic transitions, and a premium "dark-mode default" design language to stand out in the tech industry.
